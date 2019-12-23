@@ -1,6 +1,6 @@
 # About
 
-Hello :earth_asia: Learn go from a free book titled `An Introduction to Programming in Go` ([link](http://www.golang-book.com/books/intro))
+Hello :earth_asia:! Let's learn programming using Go from a free book titled `An Introduction to Programming in Go` ([link](http://www.golang-book.com/books/intro)).
 
 # Clone
 
@@ -8,4 +8,4 @@ Hello :earth_asia: Learn go from a free book titled `An Introduction to Programm
 git clone https://github.com/ledwindra/learn-go.git
 ```
 
-Thank you for reading. :smile:
+I hope you enjoy it! Thank you for reading. :smile:
